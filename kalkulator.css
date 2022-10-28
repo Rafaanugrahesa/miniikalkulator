@@ -1,0 +1,126 @@
+@font-face {
+    font-family: minecraft;
+    src: url(Minecraft.ttf);
+}
+
+body {
+   background-color: darkcyan;
+   font-family: minecraft;
+   margin-top: 100px;
+}
+
+.wrapper {
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+.textarea {
+    width: 60%;
+    border-radius: 8px;
+    border-color: black;
+    padding: 12px;
+    margin-bottom: 6px;
+    font-size: 20px;
+    font-family: minecraft;
+}
+
+table {
+    width: 67%;
+    margin: auto;
+    padding: auto;
+    border-radius: 8px;
+    font-family: minecraft;
+}
+
+table, th, td {
+  border: 1px solid;
+}
+
+.button {
+    font-size: 20px;
+    padding: 10px;
+    width: 100%;
+    border-radius: 8px;
+    font-family: minecraft;
+}
+
+.button1 {
+    background-color: yellow;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    width: 100%;
+    font-family: minecraft;
+}
+
+.button2 {
+    background-color: yellow;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    width: 100%;
+    font-family: minecraft;
+}
+
+.button3 {
+    background-color: yellow;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    width: 100%;
+    font-family: minecraft;
+}
+
+.button4 {
+    background-color: yellow;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    width: 100%;
+    font-family: minecraft;
+}
+
+.button5 {
+    background-color: lime;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    width: 100%;
+    font-family: minecraft;
+}
+
+.button6 {
+    background-color: red;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    width: 100%;
+    font-family: minecraft;
+}
+
+.button7 {
+    background-color: red;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    width: 100%;
+    font-family: minecraft;
+}
+
+.button8 {
+    background-color: yellow;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    width: 100%;
+    font-family: minecraft;
+}
